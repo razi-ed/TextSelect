@@ -1,0 +1,15 @@
+{
+  "title": "Material demo",
+  "description":
+    "https://github.com/mui-org/material-ui/tree/v1-beta/docs/src/pages/demos/autocomplete/IntegrationAutosuggest.js",
+  "dependencies": {
+    "autosuggest-highlight": "latest",
+    "material-ui": "next",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-autosuggest": "latest",
+    "react-dom": "16.2.0"
+  },
+  "keywords": [],
+  "name": "textselectwithsuggest"
+}
